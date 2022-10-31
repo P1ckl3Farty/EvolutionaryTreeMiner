@@ -1,0 +1,3 @@
+
+The model-log recall is: 0.7615242960079551
+The model-log precession is: 0.8998180927927472
